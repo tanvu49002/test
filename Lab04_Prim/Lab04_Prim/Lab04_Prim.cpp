@@ -61,6 +61,7 @@ void Prim(GRAPH g)
 
 int main() {
 	GRAPH g;
+	cout << "Tan Vu";
 	cout << "Huynh Thi Thu Thao" << endl;
 	cout << "NHAP VAO SO DINH CUA DO THI: ";
 	cin >> g.iSoDinh;
