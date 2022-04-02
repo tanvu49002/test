@@ -64,6 +64,7 @@ int main() {
 	cout << "NHAP VAO SO DINH CUA DO THI: ";
 	cin >> g.iSoDinh;
 	cout << "NHAP VAO MA TRAN KE: " << endl;
+	cout << "test";
 	for (int i = 0; i < g.iSoDinh; i++) {
 		for (int j = 0; j < g.iSoDinh; j++) {
 			cin >> g.iMaTranKe[i][j];
